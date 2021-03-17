@@ -1,0 +1,16 @@
+var:
+  last_build_time: 1615963620
+  option:
+    ascii_punct: false
+    extended_charset: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    clover: 1615963579
+    clover_jiugong: 1615963470
+    luna_pinyin: 1615963586
+    luna_pinyin_jiugong: 1615963541
+    luna_pinyin_simp: 1615963553
+    wubi86_jidian: 1615888653
+    wubi86_jidian_pinyin: 1611912759

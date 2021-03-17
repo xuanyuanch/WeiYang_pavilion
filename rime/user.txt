@@ -1,0 +1,947 @@
+# Rime table
+#@/db_name	user.txt
+#@/db_type	tabledb
+#@/rime_version	1.5.3
+#@/tick	266
+项目	adhh	1
+蓝	ajt	1
+英语	amyg	1
+了	b	5
+霸道	ba dao	1
+帮	bang	1
+卑	bei	1
+出	bm	1
+也	bn	4
+孜	bty	1
+能	cex	1
+对	cf	1
+台湾	ckiy	1
+在	d	2
+大	dd	1
+的	de	3
+地方	di fang	1
+点	dian	1
+布	dmh	1
+砍	dqw	2
+盾	dun	1
+有	e	4
+用	et	2
+十	fgh	1
+真	fhw	1
+卖	fnud	1
+块	fnw	1
+过	fp	2
+顿	gbnm	1
+到	gcfj	1
+青岛	geqy	1
+一下	gggh	3
+一样	ggsu	1
+一代	ggwa	1
+来	go	1
+喊	han	2
+点	hko	2
+不	i	9
+没	im	4
+没落	imai	1
+游	iytb	1
+是	j	2
+寄居蟹	ji ju xie	1
+侥幸	jiao xing	1
+晚	jqk	1
+螺丝刀	jxvn	1
+中	k	1
+吗	kcg	4
+品	kkk	1
+口	kkkk	1
+咽	kld	1
+叫	knh	2
+听	kr	2
+呵呵	ksks	1
+槑	ksks	1
+吃	ktn	4
+哪	kvfb	1
+只	kw	1
+啥	kwfk	1
+国	l	1
+了	le	2
+轩辕	lflf	2
+理	li	1
+加	lk	1
+回	lkd	2
+回归	lkjv	2
+边	lp	1
+没有	mei you	1
+山东	mmai	1
+风	mq	1
+网线	mqxg	1
+怀	ngi	1
+你	ni	2
+你是	ni shi	0
+你是谁	ni shi shui	1
+改	nty	1
+女	nv	1
+惯	nxf	1
+心	ny	1
+为	o	2
+这	p	3
+家	pe	1
+幂	pjd	1
+之前	ppue	1
+它	px	1
+我	q	7
+色	qc	1
+然	qd	1
+希望	qdyn	1
+外	qh	1
+饭	qnrc	1
+多	qq	1
+多少	qqit	1
+锥	qwy	1
+的	r	2
+人	ren	2
+看	rhf	5
+打	rs	1
+手机	rtsm	1
+要	s	5
+想	shn	2
+谁	shui	0
+杨	sn	1
+梦	ssq	1
+蒜	suan	1
+彻	tavn	2
+知道	tdut	3
+等	tffu	1
+自己	thnn	1
+怎么	thtc	1
+得	tj	1
+种	tkh	1
+凸	tu	1
+科	tu	1
+着	udh	1
+头	udi	1
+交换	uqrq	2
+酱	uqsg	1
+发	v	1
+女	v	1
+好	vb	5
+那	vfb	4
+人	w	2
+做	wdt	1
+问	wen	1
+便宜	wgpe	1
+个	wh	2
+但	wjg	1
+我	wo	2
+我是你爸爸	wo shi ni ba ba	1
+你	wq	4
+们	wu	2
+从	ww	1
+价格	wwst	1
+华	wxf	1
+今	wynb	1
+念	wynn	1
+下	xia	1
+邪	xie	3
+心思	xin si	1
+给	xw	1
+比	xx	1
+邀请	yao qing	1
+一	yi	1
+就	yi	2
+记	yn	1
+有	you	1
+放	yt	1
+说	yu	1
+鸳鸯	yuan yang	1
+说	yuk	1
+良	yve	1
+宰	zai	1
+遭	zao	1
+朕	zhen	1
+准	zhun	1
+总裁	zong cai	1
+邪邪	encahah	0
+项目发布	encahnd	0
+项目发	encahnt	0
+项目发	encahv	0
+项目发布	encahvd	0
+蓝色	encajqc	0
+英语怎么说你知道骨	encaytm	0
+英语怎么说	encayty	0
+也不知道砍了	encbgtb	0
+也不知道砍	encbgtd	0
+也不知道砍了多少	encbgti	0
+也不知道	encbgtu	0
+也不知道砍了	encbitb	0
+也不知道砍	encbitd	0
+也不知道	encbitu	0
+出头	encbmud	0
+也不	encbngi	0
+也不	encbni	0
+也想	encbnsh	0
+也比	encbnxx	0
+也就	encbnyi	0
+孜然不	encbqgi	0
+孜然不要加	encbqgl	0
+孜然不要	encbqgs	0
+孜然不要加那个酱	encbqgu	0
+孜然不要加那	encbqgv	0
+孜然不要加那个	encbqgw	0
+孜然不	encbqi	0
+孜然不要加	encbqil	0
+孜然不要	encbqis	0
+了多少	encbqit	0
+孜然不要加那	encbqiv	0
+也想吃那也	encbskb	0
+也想吃那也比这	encbskp	0
+也想吃那也比这便宜	encbskp	0
+也想吃那也比这便宜多	encbskq	0
+也想吃	encbskt	0
+也想吃那	encbskv	0
+也想吃那也比	encbskx	0
+也想吃那也比这	encbsky	0
+孜然	encbtqd	0
+也比这	encbxp	0
+也比这便宜多了	encbxpb	0
+也比这便宜	encbxpp	0
+也比这便宜多	encbxpq	0
+也比这便宜多了	encbxyb	0
+也比这	encbxyp	0
+也比这便宜	encbxyp	0
+也比这便宜多	encbxyq	0
+也就十块出	encbyfb	0
+也就十块	encbyff	0
+也就十	encbyfg	0
+也就十块出头	encbyfu	0
+能在我	enccdq	0
+能在我们这一代看到	enccdqg	0
+能在我们这	enccdqp	0
+能在我们这一代看	enccdqr	0
+能在我们	enccdqw	0
+能在我们这一代	enccdqw	0
+能在我们这	enccdqy	0
+能在我们这	enccdtp	0
+能在我	enccdtr	0
+能在我们	enccdtw	0
+能在我们这	enccdty	0
+能在	encced	0
+能在	enccedh	0
+台湾回归梦回游	enccili	0
+台湾回归	enccilj	0
+台湾回归梦回游叫	enccilk	0
+台湾回归梦回	enccill	0
+台湾回归梦回游叫它	enccilp	0
+台湾回归梦	enccils	0
+砍了多少	encdbqi	0
+大那	encddvf	0
+有人	encdew	0
+有人	encdeww	0
+有青岛好吃	encdgqk	0
+有青岛好	encdgqv	0
+有青岛	encdgqy	0
+在我	encdhq	0
+在我	encdhtr	0
+在科	encdhtu	0
+有没落	encdiai	0
+在我	encdq	0
+砍了	encdqb	0
+砍了	encdqbn	0
+在我们这一代看到	encdqwg	0
+在我们这一代看到台湾	encdqwi	0
+在我们这	encdqwp	0
+在我们这一代看	encdqwr	0
+在我们	encdqwu	0
+在我们这一代	encdqww	0
+在我们这	encdqwy	0
+在科大那边吃顿饭也	encdtdb	0
+在科大	encdtdd	0
+在科大那边吃顿	encdtdg	0
+在科大那边吃	encdtdk	0
+在科大那边	encdtdl	0
+在科大那边吃顿饭	encdtdq	0
+在科大那	encdtdv	0
+在科大那边吃顿饭也就	encdtdy	0
+在我	encdtr	0
+在科	encdtu	0
+在我们这	encdtwp	0
+在我们	encdtwu	0
+在我们这	encdtwy	0
+大那边吃顿饭也	encdvlb	0
+大那边吃顿饭也就十	encdvlf	0
+大那边吃顿饭也就十块	encdvlf	0
+大那边吃顿	encdvlg	0
+大那边吃	encdvlk	0
+大那边	encdvlp	0
+大那边吃顿饭	encdvlq	0
+大那边吃顿饭也就	encdvly	0
+有人说过山东	encdwya	0
+有人说过	encdwyf	0
+有人说	encdwyu	0
+有人说过山东人	encdwyw	0
+用英语	enceayg	0
+用英语怎么说你知道骨	enceaym	0
+用英语怎么说	enceayy	0
+有青岛好吃	encegqk	0
+有青岛好	encegqv	0
+有青岛	encegqy	0
+有没落	enceiai	0
+有人	encew	0
+有人	enceww	0
+有人说过	encewyf	0
+有人说	encewyu	0
+块出头	encfbud	0
+十块出	encffbm	0
+十块出头	encffbu	0
+十块	encfgfn	0
+真心	encfhny	0
+过山东	encfmai	0
+过山东人	encfmaw	0
+块出	encfnbm	0
+真心希望能	encfnqc	0
+真心希望能在	encfnqd	0
+真心希望能在我们这	encfnqp	0
+真心希望能在我	encfnqq	0
+真心希望能在我	encfnqt	0
+真心希望能在我们	encfnqw	0
+真心希望	encfnqy	0
+真心希望能在我们这	encfnqy	0
+卖的	encfnr	0
+卖的	encfnrq	0
+卖的价格对	encfrwc	0
+卖的价格	encfrws	0
+顿饭	encgbqn	0
+到台湾回归梦回游	encgcii	0
+到台湾回归	encgcij	0
+到台湾回归梦回游叫	encgcik	0
+到台湾回归梦回	encgcil	0
+到台湾回归梦回游叫它	encgcip	0
+到台湾回归梦	encgcis	0
+到台湾	encgciy	0
+一下我	encggq	0
+一下我们这外卖	encggqf	0
+一下我们这	encggqp	0
+一下我们这外	encggqq	0
+一下我们这外卖的	encggqr	0
+一下我们这外卖的价格	encggqs	0
+一下我们	encggqw	0
+一下我们这	encggqy	0
+一下我们这外卖	encggtf	0
+一下我们这	encggtp	0
+一下我们这外	encggtq	0
+一下我	encggtr	0
+一下我们	encggtw	0
+一下我们这	encggty	0
+来没有人说过山东	encgida	0
+来没有	encgide	0
+来没有人说过	encgidf	0
+来没有人	encgidw	0
+来没有人说过山东人	encgidw	0
+来没有人说	encgidy	0
+来没有	encgie	0
+来没有人说过	encgief	0
+来没有人	encgiew	0
+来没有人说	encgiey	0
+不过	encgifp	0
+不惯	encginx	0
+不要	encgis	0
+不要	encgisv	0
+不好	encgivb	0
+不良	encgiyv	0
+来没	encgoim	0
+顿饭也就十块出	encgqbb	0
+顿饭也就十	encgqbf	0
+顿饭也就十块	encgqbf	0
+顿饭也	encgqbn	0
+顿饭也就十块出头	encgqbu	0
+顿饭也就	encgqby	0
+青岛好	encgqvb	0
+青岛好吃	encgqvk	0
+不要加	encgslk	0
+不要加那个酱	encgslu	0
+不要加那	encgslv	0
+不要加那个	encgslw	0
+不要放	encgsyt	0
+不要放那	encgsyv	0
+不要放那个	encgsyw	0
+不知道砍了	encgtub	0
+不知道砍	encgtud	0
+不知道用	encgtue	0
+不知道砍了多少	encgtui	0
+不知道	encgtut	0
+不知道用英语	encgtuy	0
+不知道用英语怎么说	encgtuy	0
+不好听吗	encgvkk	0
+不好听	encgvkr	0
+一代看到	encgwrg	0
+一代看	encgwrh	0
+一代看到台湾	encgwri	0
+一代看到台湾回归	encgwrj	0
+一代看到台湾回归梦回	encgwrl	0
+一代看到台湾回归梦	encgwrs	0
+点了	enchkb	0
+点了	enchkbn	0
+没有青岛好吃	encidgk	0
+没有青岛	encidgq	0
+没有青岛好	encidgv	0
+没有没落	encidia	0
+没有人	encidw	0
+没有人说过山东	encidwa	0
+没有人说过	encidwf	0
+没有人	encidww	0
+没有人说过山东人	encidww	0
+没有人说	encidwy	0
+没有青岛好吃	enciegk	0
+没有青岛	enciegq	0
+没有青岛好	enciegv	0
+没有没落	encieia	0
+没有人	enciew	0
+没有人说过	enciewf	0
+没有人	encieww	0
+没有人说	enciewy	0
+不过	encifp	0
+游叫它	encikpx	0
+没有	encimde	0
+没有	encime	0
+不惯	encinx	0
+不要	encis	0
+不要加	encislk	0
+不要加那	encislv	0
+不要	encisv	0
+不要放	encisyt	0
+不要放那	encisyv	0
+不知道砍了	encitub	0
+不知道砍	encitud	0
+不知道用	encitue	0
+不知道	encitut	0
+不好	encivb	0
+不好听吗	encivkk	0
+不好听	encivkr	0
+游叫	enciykn	0
+不良	enciyv	0
+晚项目	encjah	0
+晚项目发布	encjahd	0
+晚项目	encjahh	0
+晚项目发	encjahn	0
+晚项目发	encjahv	0
+是没	encjgim	0
+是想	encjgsh	0
+是没有	encjide	0
+是没有青岛好吃	encjidk	0
+是没有青岛	encjidq	0
+是没有青岛好	encjidv	0
+是没有	encjie	0
+是没有青岛好吃	encjiek	0
+是没有青岛	encjieq	0
+是没有青岛好	encjiev	0
+是没	encjim	0
+是想	encjsh	0
+是想打听一下	encjsrg	0
+是想打听	encjsrk	0
+是想打	encjsrs	0
+吗要	enckcs	0
+吗要	enckcsv	0
+只不过	enckgfp	0
+听一下	enckggh	0
+吃不惯	enckgnx	0
+吃顿饭也	enckgqb	0
+吃顿饭也就十块出	enckgqb	0
+吃顿饭也就十	enckgqf	0
+吃顿饭也就十块	enckgqf	0
+吃顿饭	enckgqn	0
+吃顿饭也就十块出头	enckgqu	0
+吃顿饭也就	enckgqy	0
+中国	enckhl	0
+中国	enckhlg	0
+只不过	enckifp	0
+吃不惯	enckinx	0
+啥叫改锥	enckknq	0
+啥叫改	enckknt	0
+中国	enckl	0
+中国	encklg	0
+中国风	encklmq	0
+叫改	encknnt	0
+叫它	encknpx	0
+叫改锥	encknqw	0
+听吗	enckrkc	0
+吗要交换吗	encksuk	0
+吗要交换	encksur	0
+哪种蓝	encktaj	0
+哪种蓝色	encktaq	0
+吃顿	encktgb	0
+吃不	encktgi	0
+吃不	enckti	0
+吃那	encktvf	0
+吃那也比这便宜多了	enckvbb	0
+吃那也	enckvbn	0
+吃那也比这	enckvbp	0
+吃那也比这便宜	enckvbp	0
+吃那也比这便宜多	enckvbq	0
+吃那也比	enckvbx	0
+吃那也比这	enckvby	0
+哪种	enckvtk	0
+只不	enckwgi	0
+只不	enckwi	0
+啥叫	enckwkn	0
+国风	enclgmq	0
+回游叫	enclikn	0
+回游叫它	enclikp	0
+回归梦回游	encljsi	0
+回归梦回游叫	encljsk	0
+回归梦回	encljsl	0
+回归梦回游叫它	encljsp	0
+回归梦	encljss	0
+回归但是没有	encljwd	0
+回归但是没有	encljwe	0
+回归但是没	encljwi	0
+回归但	encljwj	0
+回归但是	encljwj	0
+回归但是没有青岛好吃	encljwk	0
+回归但是没有青岛	encljwq	0
+回归但是没有青岛好	encljwv	0
+边吃顿	enclkgb	0
+边吃顿饭也	enclkgb	0
+边吃顿饭也就十块出	enclkgb	0
+边吃顿饭也就十	enclkgf	0
+边吃顿饭也就十块	enclkgf	0
+边吃顿饭	enclkgq	0
+边吃顿饭也就十块出头	enclkgu	0
+边吃顿饭也就	enclkgy	0
+回游	enclkiy	0
+回家	enclkpe	0
+加那	enclkvf	0
+国风	enclmq	0
+边吃	enclpkt	0
+回家自己做吗	enclptk	0
+回家自己	enclptn	0
+回家自己做	enclptw	0
+加那个	enclvwh	0
+加那个酱	enclvwu	0
+山东人	encmaw	0
+山东人	encmaww	0
+网线口	encmxk	0
+网线口	encmxkk	0
+怀念	encngwy	0
+心希望能	encnqyc	0
+心希望能在	encnqyd	0
+心希望	encnqyn	0
+心希望能在我们这	encnqyp	0
+心希望能在我	encnqyq	0
+心希望能在我	encnqyt	0
+心希望能在我们	encnqyw	0
+心希望能在我们这一代	encnqyw	0
+心希望能在我们这	encnqyy	0
+发布	encntdm	0
+改锥	encntqw	0
+为啥叫	encokkn	0
+为啥叫改	encokkn	0
+为啥叫改锥	encokkq	0
+为啥	encokw	0
+这一代	encpgwa	0
+这一代看到	encpgwg	0
+这一代看到台湾	encpgwi	0
+这一代看到台湾回归	encpgwj	0
+这一代看	encpgwr	0
+这一代看到台湾回归梦	encpgws	0
+这外卖的价格对	encpqfc	0
+这外卖	encpqfn	0
+这外卖的	encpqfr	0
+这外卖的价格	encpqfs	0
+这外	encpqh	0
+家自己做吗	encptnk	0
+家自己	encptnn	0
+家自己做	encptnw	0
+之前在	encpud	0
+之前在科大	encpudd	0
+之前在科大那边吃顿	encpudg	0
+之前在	encpudh	0
+之前在科大那边吃	encpudk	0
+之前在科大那边	encpudl	0
+之前在科大那边吃顿饭	encpudq	0
+之前在科	encpudt	0
+之前在科大那	encpudv	0
+这便宜多了	encpwpb	0
+这便宜	encpwpe	0
+这便宜多	encpwpq	0
+我也不知道砍了	encqbgb	0
+我也不知道砍	encqbgd	0
+我也不	encqbgi	0
+我也不知道砍了多少	encqbgi	0
+我也不知道	encqbgu	0
+我也不	encqbi	0
+我也不知道砍了	encqbib	0
+我也不知道砍	encqbid	0
+我也不知道	encqbiu	0
+我也	encqbn	0
+我也想吃那也	encqbsb	0
+我也想	encqbsh	0
+我也想吃	encqbsk	0
+我也想吃那也比这	encqbsp	0
+我也想吃那也比这便宜	encqbsp	0
+我也想吃那	encqbsv	0
+我也想吃那也比	encqbsx	0
+我也想吃那也比这	encqbsy	0
+饭也就十块出	encqbyb	0
+饭也就十	encqbyf	0
+饭也就十块	encqbyf	0
+饭也就	encqbyi	0
+饭也就十块出头	encqbyu	0
+然不	encqdgi	0
+然不	encqdi	0
+外卖的	encqfr	0
+外卖的价格对	encqfrc	0
+外卖的	encqfrq	0
+外卖的价格	encqfrs	0
+我不	encqgi	0
+然不要	encqgs	0
+然不要加	encqgsl	0
+然不要加那个酱	encqgsu	0
+然不要	encqgsv	0
+然不要加那	encqgsv	0
+然不要加那个	encqgsw	0
+我不知道用	encqgte	0
+我不知道	encqgtu	0
+我不知道用英语	encqgty	0
+我不知道用英语怎么说	encqgty	0
+外卖	encqhfn	0
+我不	encqi	0
+然不要	encqis	0
+然不要加	encqisl	0
+然不要	encqisv	0
+然不要加那	encqisv	0
+我不知道用	encqite	0
+我不知道	encqitu	0
+饭也	encqnbn	0
+多了	encqqb	0
+多了	encqqbn	0
+我要	encqs	0
+我要等着回归但是没有	encqstd	0
+我要等着回归但是没有	encqste	0
+我要等	encqstf	0
+我要等着回归但是没	encqsti	0
+我要等着回归	encqstj	0
+我要等着回归但是	encqstj	0
+我要等着	encqstu	0
+我要等着回归但	encqstw	0
+我要	encqsv	0
+我们这	encqwp	0
+我们这外卖的价格对	encqwpc	0
+我们这外卖	encqwpf	0
+我们这一代看到	encqwpg	0
+我们这一代看到台湾	encqwpi	0
+我们这外	encqwpq	0
+我们这一代看	encqwpr	0
+我们这外卖的	encqwpr	0
+我们这外卖的价格	encqwps	0
+我们这一代	encqwpw	0
+我们	encqwu	0
+我们这外卖	encqwyf	0
+我们这一代看到	encqwyg	0
+我们这	encqwyp	0
+我们这外	encqwyq	0
+我们这一代看	encqwyr	0
+我们这外卖的	encqwyr	0
+我们这一代	encqwyw	0
+希望能在	encqycd	0
+希望能	encqyce	0
+希望能在我们这	encqycp	0
+希望能在我	encqycq	0
+希望能在我们这一代看	encqycr	0
+希望能在我	encqyct	0
+希望能在我们	encqycw	0
+希望能在我们这一代	encqycw	0
+希望能在我们这	encqycy	0
+我就	encqyi	0
+我就是	encqyj	0
+我就是	encqyjg	0
+我就是想打听一下	encqyjg	0
+我就是想打听	encqyjk	0
+我就是想打	encqyjr	0
+我就是想	encqyjs	0
+看到台湾	encrgci	0
+看到台湾回归梦回游	encrgci	0
+看到台湾回归	encrgcj	0
+看到台湾回归梦回游叫	encrgck	0
+看到台湾回归梦回	encrgcl	0
+看到台湾回归梦	encrgcs	0
+看一下我们这外卖	encrggf	0
+看一下	encrggh	0
+看一下我们这	encrggp	0
+看一下我	encrggq	0
+看一下我们这外	encrggq	0
+看一下我们这外卖的	encrggr	0
+看一下我	encrggt	0
+看一下我们	encrggw	0
+看一下我们这	encrggy	0
+看到	encrhgc	0
+看看	encrhrh	0
+看杨	encrhsn	0
+打听一下	encrkgg	0
+看看杨	encrrsn	0
+看看杨幂	encrrsp	0
+打听	encrskr	0
+看杨幂	encrspj	0
+的价格对	encrwsc	0
+的价格	encrwst	0
+想吃	encshkt	0
+想打	encshrs	0
+想吃那也	encskvb	0
+想吃那也比这便宜多了	encskvb	0
+想吃那	encskvf	0
+想吃那也比这	encskvp	0
+想吃那也比这便宜	encskvp	0
+想吃那也比这便宜多	encskvq	0
+想吃那也比	encskvx	0
+想吃那也比这	encskvy	0
+梦回游叫	encslik	0
+梦回游叫它	encslip	0
+梦回游	encsliy	0
+要加	encslk	0
+要加那	encslvf	0
+要加那个酱	encslvu	0
+要加那个	encslvw	0
+杨幂	encsnpj	0
+想打听一下	encsrkg	0
+想打听	encsrkr	0
+梦回	encsslk	0
+要等	encstf	0
+要等着	encstud	0
+要等着回归但是没有	encstud	0
+要等着回归但是没有	encstue	0
+要等着回归但是没	encstui	0
+要等着回归	encstuj	0
+要等着回归但是	encstuj	0
+要等着回归但	encstuw	0
+要交换吗	encsurk	0
+要交换吗要交换吗	encsurk	0
+要交换	encsurq	0
+要交换吗要交换	encsurr	0
+要交换吗要	encsurs	0
+要加	encsvlk	0
+要等	encsvtf	0
+要放	encsvyt	0
+要放	encsyt	0
+要放那	encsyvf	0
+要放那个	encsyvw	0
+种蓝色	enctaqc	0
+我也不	enctbgi	0
+我也不知道	enctbgu	0
+我也不	enctbi	0
+我也不知道	enctbiu	0
+我也想	enctbsh	0
+我也想吃	enctbsk	0
+我也想吃那	enctbsv	0
+科大那边吃顿饭也	enctdvb	0
+科大那	enctdvf	0
+科大那边吃顿饭也就十	enctdvf	0
+科大那边吃顿	enctdvg	0
+科大那边吃	enctdvk	0
+科大那边	enctdvl	0
+科大那边吃顿饭	enctdvq	0
+科大那边吃顿饭也就	enctdvy	0
+等着	enctfud	0
+我不知道用	enctgte	0
+我不知道	enctgtu	0
+我不知道用	enctite	0
+我不知道	enctitu	0
+种蓝	enctkaj	0
+自己做	enctnwd	0
+自己做吗	enctnwk	0
+得之前在	enctpud	0
+得之前在科大	enctpud	0
+得之前	enctpue	0
+得之前在科大那边吃顿	enctpug	0
+得之前在科大那边吃	enctpuk	0
+得之前在科大那边	enctpul	0
+得之前在科	enctput	0
+得之前在科大那	enctpuv	0
+我也	enctrbn	0
+我不	enctrgi	0
+我不	enctri	0
+我要	enctrs	0
+我要	enctrsv	0
+我们	enctrwu	0
+我就	enctryi	0
+我要等	enctstf	0
+我要等着回归	enctstj	0
+我要等着	enctstu	0
+我要等着回归但	enctstw	0
+怎么说你知道骨	encttym	0
+怎么说	encttyu	1
+知道砍了	enctudb	0
+科大	enctudd	0
+知道砍了多少	enctudi	0
+知道砍	enctudq	0
+知道用	enctuet	0
+知道用英语	enctuey	0
+知道用英语怎么说	enctuey	0
+等着回归但是没有	enctuld	0
+等着回归但是没有	enctule	0
+等着回归但是没	enctuli	0
+等着回归	enctulj	0
+等着回归但是	enctulj	0
+等着回归但是没有青岛	enctulq	0
+等着回归但	enctulw	0
+我们这	enctwp	0
+我们这外卖	enctwpf	0
+我们这外	enctwpq	0
+我们这外卖	enctwyf	0
+我们这	enctwyp	0
+我们这外	enctwyq	0
+我就是	enctyj	0
+我就是	enctyjg	0
+我就是想打	enctyjr	0
+我就是想	enctyjs	0
+着回归但是没有	enculjd	0
+着回归但是没有	enculje	0
+着回归但是没	enculji	0
+着回归但是	enculjj	0
+着回归但是没有青岛	enculjq	0
+着回归	enculjv	0
+着回归但是没有青岛好	enculjv	0
+着回归但	enculjw	0
+交换吗	encurkc	0
+交换吗要交换吗	encurkk	0
+交换吗要交换	encurkr	0
+交换吗要	encurks	0
+好有	encvbde	0
+好有	encvbe	0
+好听	encvbkr	0
+好吃	encvbkt	0
+好怀	encvbng	0
+那也比这便宜多了	encvbxb	0
+那也比这	encvbxp	0
+那也比这便宜	encvbxp	0
+那也比这便宜多	encvbxq	0
+那也比	encvbxx	0
+那也比这	encvbxy	0
+发布	encvdm	0
+那也	encvfbn	0
+那边	encvflp	0
+那个	encvfwh	0
+好听吗	encvkkc	0
+那边吃顿饭也	encvlkb	0
+那边吃顿饭也就十块出	encvlkb	0
+那边吃顿饭也就十	encvlkf	0
+那边吃顿饭也就十块	encvlkf	0
+那边吃顿	encvlkg	0
+那边吃顿饭	encvlkq	0
+那边吃	encvlkt	0
+那边吃顿饭也就	encvlky	0
+好怀念	encvnwy	0
+那个酱	encvwuq	0
+做吗	encwdkc	0
+从来没有人说过山东	encwgia	0
+从来没有	encwgid	0
+从来没有	encwgie	0
+从来没有人说过	encwgif	0
+从来没	encwgim	0
+从来没有人	encwgiw	0
+从来没有人说过山东人	encwgiw	0
+从来没有人说	encwgiy	0
+个酱	encwhuq	0
+但是没有	encwjid	0
+但是没有	encwjie	0
+但是没有青岛好吃	encwjik	0
+但是没	encwjim	0
+但是没有青岛	encwjiq	0
+但是没有青岛好	encwjiv	0
+但是	encwjj	0
+但是	encwjjg	0
+们这一代看到	encwpgg	0
+们这一代看到台湾	encwpgi	0
+们这一代看到台湾回归	encwpgj	0
+们这一代看	encwpgr	0
+们这一代	encwpgw	0
+便宜多了	encwpqb	0
+们这外卖的价格对	encwpqc	0
+们这外卖	encwpqf	0
+们这外	encwpqh	0
+便宜多	encwpqq	0
+们这外卖的	encwpqr	0
+们这外卖的价格	encwpqs	0
+你看	encwqrh	0
+你好	encwqvb	0
+你看一下我们这外卖	encwrgf	0
+你看一下	encwrgg	0
+你看一下我们这	encwrgp	0
+你看一下我	encwrgq	0
+你看一下我们这外	encwrgq	0
+你看一下我们这外卖的	encwrgr	0
+你看一下我	encwrgt	0
+你看一下我们	encwrgw	0
+你看一下我们这	encwrgy	0
+你看看	encwrrh	0
+你看看杨幂	encwrrp	0
+你看看杨	encwrrs	0
+价格对	encwscf	0
+你知道骨	encwtum	1
+们这	encwup	0
+们这	encwuyp	0
+从来	encwwgo	0
+人说	encwwyu	0
+华为	encwxo	0
+华为	encwxyl	0
+人说过山东	encwyfa	0
+人说过	encwyfp	0
+人说过山东人	encwyfw	0
+们这一代看到	encwygg	0
+们这一代看	encwygr	0
+们这一代	encwygw	0
+们这外卖	encwyqf	0
+们这外	encwyqh	0
+们这外卖的	encwyqr	0
+人说	encwyu	0
+比这便宜多了	encxpwb	0
+比这便宜	encxpwp	0
+比这便宜多	encxpwq	0
+给你看一下我们这外卖	encxwrf	0
+给你看一下	encxwrg	0
+给你看	encxwrh	0
+给你看一下我们这	encxwrp	0
+给你看一下我	encxwrq	0
+给你看一下我们这外	encxwrq	0
+给你看一下我	encxwrt	0
+给你看一下我们	encxwrw	0
+给你看一下我们这	encxwry	0
+给你	encxwwq	0
+比这	encxxp	0
+比这	encxxyp	0
+比这便宜多了	encxywb	0
+比这便宜	encxywp	0
+比这便宜多	encxywq	0
+就十块出	encyffb	0
+就十块	encyffn	0
+就十块出头	encyffu	0
+说过山东	encyfma	0
+说过山东人	encyfmw	0
+这一代	encygwa	0
+这一代看到	encygwg	0
+这一代看	encygwr	0
+就十	encyifg	0
+就是	encyij	0
+就是	encyijg	0
+就是想打听一下	encyjsg	0
+就是想	encyjsh	0
+就是想打听	encyjsk	0
+就是想打	encyjsr	0
+为啥叫	encykkn	0
+为啥叫改	encykkn	0
+为啥叫改锥	encykkq	0
+为啥	encylkw	0
+记得	encyntj	0
+这外	encypqh	0
+这外卖	encyqfn	0
+这外卖的	encyqfr	0
+记得之前在	encytpd	0
+记得之前在科大	encytpd	0
+记得之前在科大那边吃	encytpk	0
+记得之前在科大那边	encytpl	0
+记得之前在科	encytpt	0
+记得之前	encytpu	0
+记得之前在科大那	encytpv	0
+放那	encytvf	0
+说过	encyufp	0
+放那个	encyvwh	0
+这便宜多了	encywpb	0
+这便宜	encywpe	0
+这便宜多	encywpq	0
